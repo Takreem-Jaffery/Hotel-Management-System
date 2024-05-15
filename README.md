@@ -1,7 +1,7 @@
 # Hotel Management System
 A CLR Project with .NET Framework in C++ with SQL Server Database connected. Receptionists, streamline check-ins, customer data, reservations, and billing effortlessly through the application. Admins take control with intuitive room management, analytics on bookings, sales data and occupancy, and employee management.
 
-This project was made for our Database Systems course where we explored SQL queries, stored procedures, triggers, transactions as well ass Database creation, normalization and more.
+This project was made for our Database Systems course where we explored SQL queries, stored procedures, triggers, transactions as well as Database creation, normalization and more.
 
 ## Key Fuctionalities
 ### Receptionist:
